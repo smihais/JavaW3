@@ -4,12 +4,5 @@ public class Main {
 	System.out.println("Your name is: "+name);
 	int age = 44;
 	System.out.println("Your age is: "+age);
-	
-	
-	
-	
-	
-	
-	
   }
 }
